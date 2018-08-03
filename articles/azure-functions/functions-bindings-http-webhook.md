@@ -26,8 +26,6 @@ An HTTP trigger can be customized to respond to [webhooks](https://en.wikipedia.
 
 [!INCLUDE [intro](../../includes/functions-bindings-intro.md)]
 
-[!INCLUDE [HTTP client best practices](../../includes/functions-http-client-best-practices.md)]
-
 ## Packages - Functions 1.x
 
 The HTTP bindings are provided in the [Microsoft.Azure.WebJobs.Extensions.Http](http://www.nuget.org/packages/Microsoft.Azure.WebJobs.Extensions.Http) NuGet package, version 1.x. Source code for the package is in the [azure-webjobs-sdk-extensions](https://github.com/Azure/azure-webjobs-sdk-extensions/tree/v2.x/src/WebJobs.Extensions.Http) GitHub repository.
